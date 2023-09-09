@@ -1,3 +1,3 @@
 # Smart-Dock
 
-[View Dashboard](https://saheenpalayi.github.io/smart-dock.github.io/)
+[View Dashboard](https://saheenpalayi.github.io/smart-dock/)
